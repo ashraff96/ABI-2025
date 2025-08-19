@@ -1,0 +1,78 @@
+
+State Universities of Sri Lanka
+
+University of Colombo
+lat -   6°53'59.99"N
+lon -  79°51'31.66"E
+
+University of Peradeniya
+lat -      7°15'23.22"N
+lon -    80°35'46.57"E
+
+University of Sri Jayewardenepura
+lat -  6°51'9.96"N
+lon -  79°54'12.90"E
+
+University of Kelaniya
+lat -  6°58'31.42"N
+lon -  79°54'56.01"E
+
+University of Moratuwa
+lat -  6°47'42.49"N
+lon -  79°54'3.29"E
+
+University of Jaffna
+lat -    9°41'2.00"N
+lon -   80° 1'23.02"E
+
+University of Ruhuna
+lat -  5°56'17.01"N
+lon -  80°34'34.09"E
+
+Open University of Sri Lanka
+lat -  6°52'58.45"N
+lon -  79°53'12.11"E
+
+Eastern University, Sri Lanka
+lat -  7°47'39.81"N
+lon -  81°34'44.56"E
+
+Rajarata University of Sri Lanka
+lat -  8°21'39.00"N
+lon -  80°30'11.83"E
+
+Sabaragamuwa University of Sri Lanka
+lat -  6°42'52.33"N
+lon -  80°47'14.00"E
+
+South Eastern University of Sri Lanka
+lat -  7°17'49.02"N
+lon -  81°51'0.13"E
+
+Wayamba University of Sri Lanka
+lat -  7°19'21.42"N
+lon -  79°59'20.15"E
+
+Uva Wellassa University
+lat -  6°58'58.16"N
+lon -  81° 4'45.77"E
+
+University of the Visual and Performing Arts
+lat -  6°54'35.67"N
+lon -  79°51'44.86"E
+
+Gampaha Wickramarachchi University of Indigenous Medicine
+lat -  7° 5'25.22"N
+lon -  80° 2'12.01"E
+
+University of Vocational Technology (UNIVOTEC)
+lat -   6°49'12.88"N
+lon -  79°53'36.41"E
+
+General Sir John Kotelawala Defence University
+lat -  6°49'13.53"N
+lon -  79°53'28.80"E
+
+University of Vavuniya
+lat -  8°45'31.17"N
+lon - 80°24'38.51"E
