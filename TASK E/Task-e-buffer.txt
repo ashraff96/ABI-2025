@@ -1,0 +1,17 @@
+QGIS version: 3.16.0-Hannover
+QGIS code revision: 43b64b13f3
+Qt version: 5.11.2
+GDAL version: 3.1.4
+GEOS version: 3.8.1-CAPI-1.13.3
+PROJ version: Rel. 6.3.2, May 1st, 2020
+Processing algorithm…
+Algorithm 'Buffer' starting…
+Input parameters:
+{ 'DISSOLVE' : False, 'DISTANCE' : 1000, 'END_CAP_STYLE' : 0, 'INPUT' : 'C:/Users/Administrator/Desktop/ABI/TASK E/Schools.shp|layername=Schools', 'JOIN_STYLE' : 0, 'MITER_LIMIT' : 2, 'OUTPUT' : 'TEMPORARY_OUTPUT', 'SEGMENTS' : 5 }
+
+Execution completed in 0.06 seconds
+Results:
+{'OUTPUT': 'Buffered_c3674485_73dc_4ba1_b17e_52463bf41719'}
+
+Loading resulting layers
+Algorithm 'Buffer' finished
