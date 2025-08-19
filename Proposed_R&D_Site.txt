@@ -1,0 +1,17 @@
+QGIS version: 3.16.0-Hannover
+QGIS code revision: 43b64b13f3
+Qt version: 5.11.2
+GDAL version: 3.1.4
+GEOS version: 3.8.1-CAPI-1.13.3
+PROJ version: Rel. 6.3.2, May 1st, 2020
+Processing algorithm…
+Algorithm 'Difference' starting…
+Input parameters:
+{ 'INPUT' : './School_Buffers.shp', 'OUTPUT' : 'TEMPORARY_OUTPUT', 'OVERLAY' : 'C:\\Users\\Administrator\\Desktop\\ABI\\TASK E\\Question-(e)\\LU_Landuse_Pg.shp' }
+
+Execution completed in 0.81 seconds
+Results:
+{'OUTPUT': 'Difference_0e6e178f_2cae_4e1c_8dcb_6903ed7a191b'}
+
+Loading resulting layers
+Algorithm 'Difference' finished
